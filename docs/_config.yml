@@ -1,0 +1,26 @@
+title: RunDocs
+description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
+
+# theme: jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
+
+copyright:
+  revision: true
+
+addons:
+  - github
+  - i18n
+  - plugins
+  - analytics
+
+edit: true
+addons_branch: true
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock

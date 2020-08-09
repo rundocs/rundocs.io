@@ -1,0 +1,16 @@
+name: ns
+
+on:
+  push:
+    paths: [ "**.js" ]
+
+jobs:
+  checkout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - run: npm install && node ns.sync.js
+        env:
+          CLOUDFLARE_ZONE_ID: "${{ secrets.CLOUDFLARE_ZONE_ID }}"
+          CLOUDFLARE_DNS_TOKEN: "${{ secrets.CLOUDFLARE_DNS_TOKEN }}"

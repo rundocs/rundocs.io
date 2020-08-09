@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "@actions/core": "^1.2.4",
+        "cloudflare": "^2.7.0"
+    }
+}
