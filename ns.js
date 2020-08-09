@@ -1,6 +1,5 @@
 module.exports = {
     cname: {
-        "80c51a872a783ec5f2414773ac6bc26c": "verify.bing.com",
         "rundocs.io": "rundocs.github.io",
         /* start */
         "jekyll-rtd-theme": "rundocs.github.io",
