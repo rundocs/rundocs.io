@@ -2,6 +2,7 @@ module.exports = {
     cname: {
         "rundocs.io": "rundocs.github.io",
         /* start */
+        "analytics": "rundocs.github.io",
         "jekyll-rtd-theme": "rundocs.github.io",
         "saowang": "saowang.github.io",
     },
