@@ -7,14 +7,13 @@ remote_theme: rundocs/jekyll-rtd-theme
 copyright:
   revision: true
 
+edit: true
+addons_branch: true
+
 addons:
   - github
   - i18n
-  - plugins
   - analytics
-
-edit: true
-addons_branch: true
 
 readme_index:
   with_frontmatter: true
