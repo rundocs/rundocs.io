@@ -6,7 +6,7 @@ sort: 3
 ```yml
 lang: en # default
 ```
-Currently available translations, please check the language directory [`/_includes/i18n/`](https://github.com/rundocs/jekyll-rtd-theme/tree/master/_includes/i18n)
+Currently available translations, please check the theme language directory [`/_includes/i18n/`](https://github.com/rundocs/jekyll-rtd-theme/tree/master/_includes/i18n)
 
 {% include reset/i18n.liquid %}
 ## language codes ({{ languages | size }})
