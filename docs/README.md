@@ -32,4 +32,4 @@ Here are some external resources to help you learn more about Jekyll.
 
 - [Jekyll documentation](https://jekyllrb.com/)
 - [Working with GitHub Pages](https://docs.github.com/en/github/working-with-github-pages)
-- [Jekyll-rtd-theme documentation for technical writers](https://jekyll-rtd-theme.rundocs.io/)
+- [Jekyll-rtd-theme test documentation for technical writers](https://jekyll-rtd-theme.rundocs.io/)
