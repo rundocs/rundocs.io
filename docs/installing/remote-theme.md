@@ -10,6 +10,10 @@ sort: 2
 2. Remove any other `theme` or `remote_theme` entry
 
 ## Quick start with remote theme method
+```tip
+This is recommended because bug fixes are the most timely
+```
+
 The new repository will generate with the same files and folders from [rundocs/starter-slim][repo], You can [preview the theme to see what it looks like][preview], or even [generate it today][generate].
 
 [repo]: https://github.com/rundocs/starter-slim/
