@@ -9,7 +9,7 @@ debug:
   compress: false
 ```
 
-## AMP Validate
+## AMP Validate(beta)
 Make sure that page is actually valid AMP, Add `#development=1` to the URL To validate html!
 
 
