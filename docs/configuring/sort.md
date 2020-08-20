@@ -20,7 +20,5 @@ Then add following [Front Matter](https://jekyllrb.com/docs/front-matter/) to ma
     {% endraw %}
 
 ```note
-Now the sorted files will have certain order from your input!
+Now the sorted files will have certain order from your input! If you want to turn off the order prefix in toctree, `show_sorted: false`
 ```
-
-If you want to turn off the order prefix in toctree, `show_sorted: false`
