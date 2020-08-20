@@ -67,11 +67,5 @@ If your jekyll environment is `development` (GitHub pages is `production`), the 
 
 
 ```danger
-If it is not hosted on github, this plugin will become very bad, it is a good choice to close it!
+If it is not hosted on github, this plugin will become very bad, it is a good choice to close it! (`github_metadata: false`), When you set the value false, the options `github`、`edit`、`addons_branch` and `commit` information will no longer be available!
 ```
-
-```yml
-github_metadata: false # do not use plugin jekyll-github-metadata
-```
-
-When you set the value false, the options `github`、`edit`、`addons_branch` and `commit` information will no longer be available!
