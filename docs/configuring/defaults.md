@@ -63,8 +63,6 @@ jekyll-relative-links
 - Sets `site.url` as the GitHub Pages domain (cname or user domain), if none is set
 - Sets `site.baseurl` as the project name for project pages if none is set
 
-If your jekyll environment is `development` (GitHub pages is `production`), the above options are basically unavailable. Due to network reasons, local development will be replaced with code block, such as `[author]`, and some links are also not available, this is currently the best practice!
-
 
 ```danger
 If it is not hosted on github, this plugin will become very bad, it is a good choice to close it! (`github_metadata: false`), When you set the value false, the options `github`、`edit`、`addons_branch` and `commit` information will no longer be available!
