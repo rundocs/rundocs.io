@@ -5,7 +5,7 @@ sort: 11
 # Custom scss or script
 
 via file:
-```yml
+```
 _includes/assets/custom.js
 _includes/assets/custom.scss
 ```

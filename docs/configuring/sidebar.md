@@ -2,8 +2,26 @@
 sort: 4
 ---
 
-# Sorting the sidebar
+# Set the sidebar
 
+Show `category1` in the toctree, must have a`README.md`:
+```
+README.md
+category1/file1.md
+category1/file2.md
+category1/file3.md
+category1/README.md
+```
+
+Do not show `category1` in the toctree:
+```
+README.md
+category1/file1.md
+category1/file2.md
+category1/file3.md
+```
+
+## Sort the sidebar
 Default sorted by `path`, If you want to further setting, add following configuration to your `_config.yml`
 
 ```yml

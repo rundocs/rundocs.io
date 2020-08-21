@@ -11,20 +11,3 @@ If you have a readme file, and your site doesn't otherwise have an index file, [
 ```tip
 All of the github pages features is supported
 ```
-
-Show `category1` in the toctree:
-```
-README.md
-category1/file1.md
-category1/file2.md
-category1/file3.md
-category1/README.md
-```
-
-Do not show `category1` in the toctree:
-```
-README.md
-category1/file1.md
-category1/file2.md
-category1/file3.md
-```
