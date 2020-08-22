@@ -33,7 +33,7 @@ graph TB
 ```
 
 ## Optional settings
-Theme initialize mermaid with default configuration (`mermaid.initialize();`), You can custom config like this:
+Theme initialize mermaid with default configuration (`{}`), You can custom config like this:
 
 ```yml
 mermaid:
