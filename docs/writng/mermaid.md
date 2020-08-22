@@ -37,7 +37,7 @@ Theme initialize mermaid with default configuration (`mermaid.initialize();`), Y
 
 ```yml
 mermaid:
-  config:
+  initialize:
     startOnLoad: true
     logLevel: fatal
     flowchart:
@@ -57,7 +57,7 @@ The theme chooses the stable version of mermaid, if you want to use the custom m
 
 ```yml
 mermaid:
-  src: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+  custom: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
 ```
 
 Mermaid documentation, see: [https://mermaid-js.github.io/mermaid/](https://mermaid-js.github.io/mermaid/)
