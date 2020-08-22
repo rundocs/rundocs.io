@@ -32,8 +32,27 @@ graph TB
     end
 ```
 
+## Config
+Theme initialize mermaid with default configuration (`mermaid.initialize();`), You can custom config like this:
+
+```yml
+mermaid:
+  config:
+    startOnLoad: true
+    logLevel: fatal
+    flowchart:
+      diagramPadding: 8
+      htmlLabels: true
+      curve: linear
+    gantt:
+      titleTopMargin: 25
+    .
+    .
+    .
+```
+
 ```tip
-The theme chooses the latest mermaid version by default, if you want to use the latest version via npm, add following configuration to your `_config.yml`
+The theme chooses the stable version of mermaid, if you want to use the custom mermaid, add following configuration
 ```
 
 ```yml
