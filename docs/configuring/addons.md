@@ -19,7 +19,7 @@ addons_branch: true # means show addons branch, close with false
 ```
 
 ```tip
-addons means the footer of sidebar, default is false
+addons means the footer of sidebar, default is `false`
 ```
 
 ## i18n
