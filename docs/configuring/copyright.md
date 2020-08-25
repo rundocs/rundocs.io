@@ -4,7 +4,7 @@ sort: 9
 
 # Set up site copyright
 ```yml
-author: # default: site.github.owner_name
+author: [site.github.owner_name]
 
 copyright:
   since: false # like: 2000
