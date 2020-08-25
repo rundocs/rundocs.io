@@ -4,17 +4,19 @@ sort: 2
 
 # Default configuration
 ```yml
-author: # default: site.github.owner_name
+author: site.github.owner_name
 lang: en
 
 copyright: false
 edit: false
 logo: false # relative path to your image, eg: assets/logo.png
 disqus: false # your disqus username
-addons: false
-addons_branch: false # means addons branch
 
-rougify: github # more options see code highlight
+nav_version: true
+addons: false
+addons_branch: false
+
+rougify: github # more styles see code highlight
 ```
 
 ```tip
