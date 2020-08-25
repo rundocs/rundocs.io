@@ -4,7 +4,7 @@ sort: 2
 
 # Default configuration
 ```yml
-author: site.github.owner_name
+author: [site.github.owner_name]
 lang: en
 
 copyright: false
