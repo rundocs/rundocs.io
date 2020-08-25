@@ -15,3 +15,8 @@ copyright:
 ```
 Copyright [since]-{{ site.time | date: "%Y" }}, [author] Revision [commit]
 ```
+
+## Custom
+```yml
+copyright: Hello friends, I am customized!
+```
