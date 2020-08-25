@@ -15,7 +15,15 @@ addons:
 # set true will show the addons with blank content
 addons: true
 
-addons_branch: true # means show addons branch, close with false
+
+# custom github list items, the order is avaiable
+addons:
+  - github:
+    - homepage
+    - issues
+    - download
+
+addons_branch: true # show github pages source branch
 ```
 
 ```tip
