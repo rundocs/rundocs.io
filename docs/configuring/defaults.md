@@ -12,7 +12,7 @@ edit: false
 logo: false # relative path to your image, eg: assets/logo.png
 disqus: false # your disqus username
 
-nav_version: true
+nav_version: false
 addons: false
 addons_branch: false
 
