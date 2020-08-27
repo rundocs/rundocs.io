@@ -10,6 +10,7 @@ Add the following to your site's `Gemfile`, for local preview!
 source "https://rubygems.org" # gems.ruby-china.com
 
 gem "jekyll-rtd-theme"
+gem "jekyll-octicons"
 
 gem "github-pages", group: :jekyll_plugins
 ```
@@ -27,6 +28,10 @@ group :jekyll_plugins do
   gem "jekyll-readme-index"
   gem "jekyll-github-metadata"
   gem "jekyll-titles-from-headings"
+  gem "jemoji"
+  gem "jekyll-avatar"
+  gem "jekyll-mentions"
+  gem "jekyll-octicons"
 end
 ```
 
@@ -37,4 +42,8 @@ plugins:
   - jekyll-readme-index
   - jekyll-github-metadata
   - jekyll-titles-from-headings
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-octicons
 ```
