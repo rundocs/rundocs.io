@@ -10,10 +10,6 @@ The documents are stored in your own GitHub repository, GitHub pages will automa
 
 Use markdown to write documents and leave the rest to us, and we provide you with free domain name!
 
-```danger
-The next version will greatly optimize the code. Regarding the use, please pay attention to adding the latest version of the configuration(`plugins:[jekyll-octicons]`), thank you
-```
-
 ## Features
 - Automatically generate sidebar based on directory
 - Only need one file `_config.yml` to configure site
