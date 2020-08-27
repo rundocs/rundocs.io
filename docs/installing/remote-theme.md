@@ -4,11 +4,11 @@ sort: 2
 
 # Remote theme method (latest)
 1. Add the following to your github repository's `_config.yml`
-    ```yml
-    remote_theme: rundocs/jekyll-rtd-theme
-    plugins:
-      - jekyll-octicons
-    ```
+```yml
+remote_theme: rundocs/jekyll-rtd-theme
+plugins:
+  - jekyll-octicons
+```
 2. Remove any other `theme` or `remote_theme` entry
 
 ## Quick start with remote theme method
