@@ -8,6 +8,7 @@ sort: 1
 source "https://rubygems.org" # gems.ruby-china.com
 
 gem "jekyll-rtd-theme"
+gem "jekyll-octicons"
 
 gem "github-pages", group: :jekyll_plugins
 ```
