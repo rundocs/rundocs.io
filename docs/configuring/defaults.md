@@ -69,3 +69,7 @@ jekyll-relative-links
 ```danger
 If it is not hosted on github, this plugin will become very bad, it is a good choice to close it! (`github_metadata: false`), When you set the value false, the options `github`、`edit`、`addons_branch`、`nav_version` and `commit` information will no longer be available!
 ```
+
+```tip
+Maybe it is the best practice to set the github api site to the local host on your computer
+```
