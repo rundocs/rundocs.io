@@ -14,10 +14,9 @@ Use markdown to write documents and leave the rest to us, and we provide you wit
 - Automatically generate sidebar based on directory
 - Only need one file `_config.yml` to configure site
 - Search engine optimized
-- Multi-language supported
 - Document search (RegExp supported)
 - Support third-party comments
-- Google, Baidu, CNZZ Analytics support
+- Google Analytics support
 
 ## Quick start
 The new repository will generate with the same files and folders from [rundocs/starter-slim][slim], You can [preview the theme to see what it looks like][slim-preview], or even [generate it today][slim-generate].
