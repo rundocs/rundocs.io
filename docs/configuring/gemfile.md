@@ -15,6 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 ```
 
 ## Advanced usage
+
 Setting up accurate `jekyll_plugins` can speed up your build time
 
 ```ruby
@@ -34,6 +35,7 @@ end
 ```
 
 Optional `_config.yml`
+
 ```yml
 plugins:
   - jekyll-default-layout

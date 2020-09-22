@@ -5,6 +5,7 @@ sort: 5
 # Release theme
 
 Change both version in following files:
+
 ```
 jekyll-rtd-theme.gemspec
 

@@ -1,8 +1,11 @@
 # RunDocs: Documentation Simplified
+
 ![](https://github.com/rundocs/rundocs.io/workflows/ns/badge.svg)
 ![](https://www.codefactor.io/repository/github/rundocs/jekyll-rtd-theme/badge)
 ![](https://img.shields.io/gem/dt/jekyll-rtd-theme)
 ![](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
+
+# WARNING: SOME OPTIONS MAY NOT WORKED, DOCS NEED UPDATE!
 
 [RunDocs](https://rundocs.io) extends the continuous integration documentation capabilities of [GitHub pages](https://pages.github.com/) for everyone!
 
@@ -11,6 +14,7 @@ The documents are stored in your own GitHub repository, GitHub pages will automa
 Use markdown to write documents and leave the rest to us, and we provide you with free domain name!
 
 ## Features
+
 - Automatically generate sidebar based on directory
 - Only need one file `_config.yml` to configure site
 - Search engine optimized
@@ -19,6 +23,7 @@ Use markdown to write documents and leave the rest to us, and we provide you wit
 - Google Analytics support
 
 ## Quick start
+
 The new repository will generate with the same files and folders from [rundocs/starter-slim][slim], You can [preview the theme to see what it looks like][slim-preview], or even [generate it today][slim-generate].
 
 [slim]: https://github.com/rundocs/starter-slim/
