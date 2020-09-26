@@ -34,6 +34,7 @@ graph TB
 
 ## Optional settings
 
+
 Theme initialize mermaid with default configuration (`{}`), You can custom config like this:
 
 ```yml
