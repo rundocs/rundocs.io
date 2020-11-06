@@ -5,7 +5,7 @@
 ![](https://img.shields.io/gem/dt/jekyll-rtd-theme)
 ![](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
-# WARNING: SOME OPTIONS MAY NOT WORKED, DOCS NEED UPDATE!
+# WARNING: SOME OPTIONS MAY NOT WORK, DOCS NEED UPDATE!
 
 
 [RunDocs](https://rundocs.io) extends the continuous integration documentation capabilities of [GitHub pages](https://pages.github.com/) for everyone!
