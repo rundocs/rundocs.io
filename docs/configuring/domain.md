@@ -2,12 +2,12 @@
 sort: 14
 ---
 
-# Custom your docs domain
+# Custom docs domain
 Free domain name is `*.rundocs.io`, now avaiable!
 
-## why?
-- Better SEO supported(cloudflare)
-- Better establish brand image
+## Why?
+- Better SEO rank (Cloudflare)
+- Establish better brand image
 - No deployment required
 - Just pull a request to use the domain!
 

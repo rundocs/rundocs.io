@@ -4,7 +4,7 @@ sort: 2
 
 # Remote theme method (latest)
 
-1. Add the following to your github repository's `_config.yml`
+1. Add the following to your GitHub repository's `_config.yml`
 
 ```yml
 remote_theme: rundocs/jekyll-rtd-theme
@@ -15,7 +15,7 @@ remote_theme: rundocs/jekyll-rtd-theme
 ## Quick start with remote theme method
 
 ```tip
-This is recommended because bug fixes are the most timely
+This is recommended because bugs are fixed quickly.
 ```
 
 The new repository will generate with the same files and folders from [rundocs/starter-slim][repo], You can [preview the theme to see what it looks like][preview], or even [generate it today][generate].

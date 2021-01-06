@@ -8,19 +8,20 @@
 # WARNING: SOME OPTIONS MAY NOT WORK, DOCS NEED UPDATE!
 
 
-[RunDocs](https://rundocs.io) extends the continuous integration documentation capabilities of [GitHub pages](https://pages.github.com/) for everyone!
+[RunDocs](https://rundocs.io) extends the continuous integration documentation capabilities of [GitHub Pages](https://pages.github.com/) for everyone!
 
-The documents are stored in your own GitHub repository, GitHub pages will automatically build your docs so your code and documentation are always up-to-date.
+The documents are stored in your own GitHub repository, GitHub Pages will automatically build your docs so your code and documentation are always up-to-date.
 
-Use markdown to write documents and leave the rest to us, and we provide you with free domain name!
+Use M
+arkdown to write documents and leave the rest to us, and we provide you with free domain name!
 
 ## Features
 
 - Automatically generate sidebar based on directory
 - Only need one file `_config.yml` to configure site
-- Search engine optimized
+- Search engine optimized 
 - Document search (RegExp supported)
-- Support third-party comments
+- Third-party comments support
 - Google Analytics support
 
 ## Quick start

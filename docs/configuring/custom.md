@@ -2,25 +2,26 @@
 sort: 11
 ---
 
-# Custom scss or script
+# Custom SCSS or JavaScript
 
-via file:
+Via file:
 ```
 _includes/assets/custom.js
 _includes/assets/custom.scss
 ```
 
-via `_config.yml`:
-```yml
-script: |
+Via `_config.yml`:
+```js
+javascript: |
   alert("it");
   alert("works!");
-
+```
+```scss
 scss: |
   .wy-nav-content-wrap{background:#fcfcfc}
   .wy-nav-content-wrap .wy-nav-content{max-width:none}
 ```
 
 ```tip
-Please do not use double slashes in script, and be sure to add the semicolon(;) at the end!
+Please do not use double slashes in JavaScript, and be sure to add the semicolon(;) at the end!
 ```

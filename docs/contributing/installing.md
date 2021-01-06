@@ -14,4 +14,4 @@ make install
 ```sh
 make server
 ```
-4. Browse to [http://localhost:4000](http://localhost:4000)
+4. Browse to [http://localhost:4000](http://localhost:4000) or [127.0.0.1:4000](127.0.0.1:4000)

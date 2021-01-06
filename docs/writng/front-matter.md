@@ -9,5 +9,5 @@ If you have a Jekyll page that doesn't have a title specified in the YAML Front 
 If you have a readme file, and your site doesn't otherwise have an index file, [this plugin](https://rubygems.org/gems/jekyll-readme-index) instructs Jekyll to use the readme as the site's index. That's it. No more, no less.
 
 ```tip
-All of the github pages features is supported
+All of the GitHub Pages features are supported.
 ```

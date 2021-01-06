@@ -2,7 +2,7 @@
 sort: 6
 ---
 
-# Set up meta data
+# Set up metadata
 
 ```yml
 meta:

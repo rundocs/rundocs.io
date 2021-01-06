@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# Set up analysis related
+# Set up Google Analytics
 
 ```yml
 google:

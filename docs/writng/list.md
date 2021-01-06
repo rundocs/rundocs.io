@@ -4,7 +4,7 @@ sort: 2
 
 # List directory
 
-If you want to list all `pages` in the current directory, add following code to your markdown file!
+If you want to list all `pages` in the current directory, add following code to your Markdown file!
 
     {% raw %}
     {% include list.liquid %}

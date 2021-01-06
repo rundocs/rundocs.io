@@ -2,7 +2,7 @@
 sort: 12
 ---
 
-# Custom extra html
+# Custom extra HTML
 
 ```
 _includes/extra/head.html
