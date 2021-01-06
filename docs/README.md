@@ -12,8 +12,7 @@
 
 The documents are stored in your own GitHub repository, GitHub Pages will automatically build your docs so your code and documentation are always up-to-date.
 
-Use M
-arkdown to write documents and leave the rest to us, and we provide you with free domain name!
+Use Markdown to write documents and leave the rest to us, and we provide you with free domain name!
 
 ## Features
 
