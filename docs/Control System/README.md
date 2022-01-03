@@ -1,7 +1,7 @@
 ---
-sort: 4
+sort: 3
 ---
 
-# Contributing
+# Control System
 
 {% include list.liquid %}
